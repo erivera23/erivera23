@@ -1,6 +1,6 @@
 # Hola, soy Efrain:honduras: 👋
 
-Soy ingeniero en informática :man_technologist:, me gusta mucho enseñar :man_teacher: y me gusta la programación, las matemáticas y las redes. Me he dedicado al área de soporte técnico e impartir cursos de redes. Algunos sistemas desarrollados en mi ciudad de origen a empresas locales, y ahora soy un backend developer.
+Soy ingeniero en informática :man_technologist:, me gusta mucho enseñar :man_teacher: y me gusta la programación, las matemáticas y las redes. Me he dedicado al área de soporte técnico e impartir cursos de redes. Algunos sistemas desarrollados en mi ciudad de origen a empresas locales, y ahora me he decidio a ser un backend developer. Tengo conocimiento de php y estoy aprendiendo python.
 
 ## Tecnologías
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -11,7 +11,7 @@ Soy ingeniero en informática :man_technologist:, me gusta mucho enseñar :man_t
 ![MySql](https://img.shields.io/badge/-MySQL-yellow?style=plastic&logo=Mysql&logoColor=black)
 
 ## Artículos
-Working on it! :writing_hand:
+[Crea tu perfil en Github con Readme.md](https://dev.to/erivera23/como-crear-tu-perfil-de-github-con-readme-md-4odd)
 
 ## Contacto
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/efrainriivera)](https://twitter.com/efrainriivera)
