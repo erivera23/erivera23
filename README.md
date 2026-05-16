@@ -1,7 +1,33 @@
-# Hola, soy Efrain:honduras: 👋
+# Hola, soy Efrain Rivera:honduras: 👋
 
-Soy ingeniero en informática :man_technologist:, me gusta mucho enseñar :man_teacher: y me gusta la programación, las matemáticas y las redes. Me he dedicado al área de soporte técnico e impartir cursos de redes. Algunos sistemas desarrollados en mi ciudad de origen a empresas locales, y ahora me he decidio a ser un backend developer. Tengo conocimiento de php y estoy aprendiendo python.
+Ingeniero en Informática con experiencia en el ciclo completo de 
+desarrollo de software. Me especializo en construir aplicaciones web 
+y de escritorio, integración de APIs y automatización de procesos.
 
+## 🛠️ Tecnologías
+
+**Frontend:** Angular · React · Vue.js · HTML · CSS · JavaScript  
+**Backend:** Node.js · .NET (C#) · PHP · Express  
+**Bases de datos:** MySQL · SQL Server · PostgreSQL · SQLite · Firebase  
+**Herramientas:** Git · Firebase Hosting · Electron · GeneXus  
+**Automatización & IA:** Python · RPA · Vertex AI  
+
+## 🚀 Proyectos destacados
+
+- 🖥️ **Sistema POS** — Aplicación de escritorio con Angular 18 + Electron + Node.js + SQLite
+- 🛒 **Catálogo web** — React + Vite + Google Sheets API + WhatsApp
+- 📚 **ERP Académico** — C# + .NET + MySQL · Sistema de gestión académica
+
+## Artículos
+[Crea tu perfil en Github con Readme.md](https://dev.to/erivera23/como-crear-tu-perfil-de-github-con-readme-md-4odd)
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Efrain_Rivera-blue)](https://linkedin.com/in/efrain-riivera)
+[![Email](https://img.shields.io/badge/Email-riveraefrain5@gmail.com-red)](mailto:riveraefrain5@gmail.com)
+
+
+<!--
 ## Tecnologías
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
@@ -10,12 +36,8 @@ Soy ingeniero en informática :man_technologist:, me gusta mucho enseñar :man_t
 ![Python](https://img.shields.io/badge/-Python-lightgrey?style=plastic&logo=Python&logoColor=black)
 ![MySql](https://img.shields.io/badge/-MySQL-yellow?style=plastic&logo=Mysql&logoColor=black)
 
-## Artículos
-[Crea tu perfil en Github con Readme.md](https://dev.to/erivera23/como-crear-tu-perfil-de-github-con-readme-md-4odd)
 
-## Contacto
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/efrainriivera)](https://twitter.com/efrainriivera)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/efrain-riivera/)](https://www.linkedin.com/in/efrain-riivera/)
+
 <!--
 **erivera23/erivera23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
