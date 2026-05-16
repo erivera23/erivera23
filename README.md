@@ -1,4 +1,4 @@
-# Hola, soy Efrain Rivera:honduras: 👋
+# Hola, soy Efrain Rivera :honduras: 👋
 
 Ingeniero en Informática con experiencia en el ciclo completo de 
 desarrollo de software. Me especializo en construir aplicaciones web 
